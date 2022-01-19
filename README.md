@@ -1,3 +1,3 @@
 # CP
 
-Algorithms stuff
+Competitive Programming and Algorithms.
